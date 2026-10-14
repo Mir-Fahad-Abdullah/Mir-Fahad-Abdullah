@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mir Fahad Abdullah</h1>
+<h1 align="center">Hey there! 👋, I'm Mir Fahad Abdullah</h1>
 <h3 align="center">AI/ML Engineer & Computer Vision Researcher from Dhaka, Bangladesh 🇧🇩</h3>
 
-- 🔬 Research: Multimodal Deep Learning, Image Segmentation, CNN, GNN, cross-modal fusion
+- 🔬 Research: Multimodal Deep Learning, Image Segmentation, Cross-Modal Fusion, Vision Transformers 
 - 🌱 Currently exploring: AI Agents, NLP, LLM's, GenerativeAI, MLOps, Production ML pipelines
 - 💬 Ask me about: PyTorch, Computer Vision, NLP, LLMs
 - 📫 Reach me: fahadabdullah67@gmail.com
